@@ -7,4 +7,5 @@ This website is for R training to be delivered at the University of Nottingham a
 
 # Resources
 
-[A list of R resources](resources.html) that might be useful
+-   [A list of R resources](resources.html) that might be useful
+    -   also available in [PDF](resources.pdf) format
