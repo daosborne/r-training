@@ -34,39 +34,39 @@ format:
 -   Mike Baxter (2015) *Notes on Quantitative Archaeology and R.* <https://www.academia.edu/12545743/Notes_on_Quantitative_Archaeology_and_R>
 -   Ben Marwick (2018) *Using R and Related Tools for Reproducible Research in Archaeology.* <http://www.practicereproducibleresearch.org/case-studies/benmarwick.html>
     -   in Kitzes *et al.* (eds.) (2018) *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences.* <http://www.practicereproducibleresearch.org/>
--   Ismay and Kim (2018) A modern dive into data with R: An introduction to statistical and data sciences via R. <https://moderndive.com/index.html>
--   Chester Ismay (2018) Statistical inference: a Tidy approach. <https://ismayc.github.io/talks/ness-infer/slide_deck.html#1>
+-   Ismay and Kim (2018) *A modern dive into data with R: An introduction to statistical and data sciences via R*. <https://moderndive.com/index.html>
+-   Chester Ismay (2018) *Statistical inference: a Tidy approach*. <https://ismayc.github.io/talks/ness-infer/slide_deck.html#1>
 -   CRAN Task Views: <https://www.stats.bris.ac.uk/R/> then click on Task Views
 
 # Examples
 
 -   R graph gallery:  <https://www.r-graph-gallery.com>
--   Ben Marwick's \@archpaperscode Twitter bot: <https://twitter.com/archpaperscode>
+-   Ben Marwick's `@archpaperscode` Twitter bot: <https://twitter.com/archpaperscode>
 -   Tidy Tuesday 2022 examples gallery: <https://github.com/deepdk/TidyTuesday-2022>
     -   Tom Mock explains the Tidy Tuesday project at <https://www.youtube.com/watch?v=H8rhQOj7vDY>
 
 # Video
 
 -   Simon Jackson's *Wrangling Data in the Tidyverse* (useR! 2018 workshops & tutorials)
-    -   Part 1: <https://www.youtube.com/embed/E-Vvg8uzcVM>  (1:16:10)
-    -   Part 2: <https://www.youtube.com/watch?v=DwWH1mTerOc&list=PL4IzsxWztPdnyAKQQLxA4ucpaCLdsKvZw&index=12> (1:11:43)
+    -   Part 1 (1:16:10): {{< video https://www.youtube.com/embed/E-Vvg8uzcVM >}}
+    -   Part 2 (1:11:43): {{< video https://www.youtube.com/embed/DwWH1mTerOc >}}
+        - <https://www.youtube.com/watch?v=DwWH1mTerOc&list=PL4IzsxWztPdnyAKQQLxA4ucpaCLdsKvZw&index=12>
 
 # Packages
 
 -   Tidyverse <https://www.tidyverse.org/> 
     -   ggplot2: <https://ggplot2.tidyverse.org> 
     -   Paper: Wickham *et al.* (2019)  <https://doi.org/10.21105/joss.01686> 
--   ggchart --- simple ggplot2-based visualisation
--   rtweet
+-   [ggcharts](https://thomas-neitmann.github.io/ggcharts/) --- simple ggplot2-based visualisation
 
 # Tools
 
--   Rstudio IDE
--   Tabula, for generating CSVs from PDFs
--   GitHub, for version control
--   Github Pages, for websites
--   ChatGPT =:o
+-   [Rstudio IDE](https://posit.co/products/open-source/rstudio/) --- widely-used Integrated Development Environment for R
+-   [Tabula](https://tabula.technology/) --- extracting CSVs from PDFs
+-   [GitHub](https://github.com/about) --- for version control
+-   [Github Pages](https://pages.github.com/) --- for websites
+-   ChatGPT --- just joking =:o
 
 # Teaching materials (for the tutors)
 
--   RStudio Education: <https://education.rstudio.com/teach/> 
+-   RStudio Education: <https://education.rstudio.com/teach/>
