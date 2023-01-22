@@ -1,0 +1,10 @@
+---
+title: "About"
+author: David Osborne
+---
+
+# About this site
+
+This site is to hold material for a forthcoming training course on R to be delivered at the University of Nottingham.
+
+[David Osborne](mailto:d.osborne@nottingham.ac.uk) (PhD researcher, Department of Classics & Archaeology)

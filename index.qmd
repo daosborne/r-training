@@ -1,0 +1,10 @@
+---
+title: "R training"
+author: David Osborne
+---
+
+This website is for R training to be delivered at the University of Nottingham and is currently under development.
+
+# Resources
+
+[A list of R resources](resources.html) that might be useful
