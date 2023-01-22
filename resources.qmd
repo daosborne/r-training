@@ -50,7 +50,6 @@ format:
 -   Simon Jackson's *Wrangling Data in the Tidyverse* (useR! 2018 workshops & tutorials)
     -   Part 1 (1:16:10): {{< video https://www.youtube.com/embed/E-Vvg8uzcVM >}}
     -   Part 2 (1:11:43): {{< video https://www.youtube.com/embed/DwWH1mTerOc >}}
-        - <https://www.youtube.com/watch?v=DwWH1mTerOc&list=PL4IzsxWztPdnyAKQQLxA4ucpaCLdsKvZw&index=12>
 
 # Packages
 
