@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "R training",
     "section": "",
-    "text": "This website is for R training to be delivered at the University of Nottingham and is currently under development.\n\nResources\n\nA list of R resources that might be useful\n\nalso available in PDF format"
+    "text": "This website is for an R training session emphasising use of the Tidyverse to be delivered at the University of Nottingham and is currently under development."
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "R training",
+    "section": "Contacts",
+    "text": "Contacts\nDavid Osborne — PhD researcher, Department of Classics & Archaeology"
   },
   {
     "objectID": "about.html",
