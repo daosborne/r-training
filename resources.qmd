@@ -1,6 +1,9 @@
 ---
 title: "Resources"
 author: "David Osborne"
+date: now
+date-modified: last-modified
+date-format: iso
 format:
   html: default
   pdf: default
@@ -12,7 +15,7 @@ format:
 -   Winston Chang (2018) *R Graphics Cookbook.* <https://r-graphics.org/>
 -   Garrett Grolemund & Hadley Wickham (2016) *R for Data Science.* <https://r4ds.had.co.nz/>
     -   uses Tidyverse
--   Julia Silge and David Robinson (2017) *Text Mining With R.* <https://www.tidytextmining.com/>
+-   Julia Silge & David Robinson (2017) *Text Mining With R.* <https://www.tidytextmining.com/>
 -   Robin Lovelace *et al.* (2019) *Geocomputation with R.* <https://r.geocompx.org/>
 -   Yihui Xie (2022) *RMarkdown: the Definitive Guide.* <https://bookdown.org/yihui/rmarkdown/>
 
@@ -23,6 +26,7 @@ format:
 
 # Guides
 
+-   R Studio: <https://docs.posit.co/ide/user/>
 -   R Studio cheatsheets: <https://www.rstudio.com/resources/cheatsheets/>
 -   *Finding your way to R*: <https://education.rstudio.com/learn/>
 -   Bookdown: <https://bookdown.org/>
@@ -31,19 +35,29 @@ format:
 
 # Subject-related guides
 
+## General
+
+-   CRAN Task Views: <https://www.stats.bris.ac.uk/R/> then click on Task Views
+
+## Statistics
+
+-   Ismay and Kim (2018) *A modern dive into data with R: An introduction to statistical and data sciences via R*. <https://moderndive.com/index.html>
+-   Chester Ismay (2018) *Statistical inference: a Tidy approach*. <https://ismayc.github.io/talks/ness-infer/slide_deck.html#1>
+
+## Archaeology
+
 -   Mike Baxter (2015) *Notes on Quantitative Archaeology and R.* <https://www.academia.edu/12545743/Notes_on_Quantitative_Archaeology_and_R>
 -   Ben Marwick (2018) *Using R and Related Tools for Reproducible Research in Archaeology.* <http://www.practicereproducibleresearch.org/case-studies/benmarwick.html>
     -   in Kitzes *et al.* (eds.) (2018) *The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences.* <http://www.practicereproducibleresearch.org/>
--   Ismay and Kim (2018) *A modern dive into data with R: An introduction to statistical and data sciences via R*. <https://moderndive.com/index.html>
--   Chester Ismay (2018) *Statistical inference: a Tidy approach*. <https://ismayc.github.io/talks/ness-infer/slide_deck.html#1>
 -   Rchaeology Community resources list: <https://rchaeology.github.io/resources/archaeology/>
-    -   Mastodon: @Rchaeology@archaeo.social
--   CRAN Task Views: <https://www.stats.bris.ac.uk/R/> then click on Task Views
+    -   Mastodon: @Rchaeology\@archaeo.social
 
 # Examples
 
 -   R graph gallery:  <https://www.r-graph-gallery.com>
--   Ben Marwick's `@archpaperscode` Twitter bot: <https://twitter.com/archpaperscode> (<https://github.com/benmarwick/ctv-archaeology#publications-that-include-r-code>)
+-   Ben Marwick's list of archaeology publications with R code
+    -   <https://github.com/benmarwick/ctv-archaeology#publications-that-include-r-code>
+    -   also `@archpaperscode` Twitter bot: <https://twitter.com/archpaperscode>
 -   Tidy Tuesday 2022 examples gallery: <https://github.com/deepdk/TidyTuesday-2022>
     -   Tom Mock explains the Tidy Tuesday project at <https://www.youtube.com/watch?v=H8rhQOj7vDY>
 
@@ -56,22 +70,23 @@ format:
 # Packages
 
 -   Tidyverse <https://www.tidyverse.org/> 
-    -   ggplot2: <https://ggplot2.tidyverse.org> 
     -   Paper: Wickham *et al.* (2019)  <https://doi.org/10.21105/joss.01686> 
--   [ggcharts](https://thomas-neitmann.github.io/ggcharts/) --- simple ggplot2-based visualisation
 
 # Reusable code, open science, reproducibility
 
 -   Code quality: [Trisovic, A. *et al.* (2022) A large-scale study on research code quality and execution. *Scientific Data* 9, 60](https://www.nature.com/articles/s41597-022-01143-6)
-    -   See *Best practices and recommendations* section
+    -   see *Best practices and recommendations* section
 
 # Tools
 
--   [Rstudio IDE](https://posit.co/products/open-source/rstudio/) --- widely-used Integrated Development Environment for R
+-   [Rstudio](https://posit.co/products/open-source/rstudio/) --- widely-used Integrated Development Environment (IDE) for R
 -   [Tabula](https://tabula.technology/) --- extracting CSVs from PDFs
--   [GitHub](https://github.com/about) --- for version control
--   [Github Pages](https://pages.github.com/) --- for websites
--   ChatGPT --- just joking =:o
+-   Git --- for version control
+    -   [GitHub](https://github.com/about) --- sharing code
+
+    -   [Github Pages](https://pages.github.com/) --- for websites
+
+    -   [Using Git with R](https://happygitwithr.com/)
 
 # Teaching materials (for the tutors)
 

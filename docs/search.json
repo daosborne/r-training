@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "R training",
     "section": "",
-    "text": "This website is for an R training session emphasising use of the Tidyverse to be delivered at the University of Nottingham and is currently under development."
+    "text": "This website is for an R training session, emphasising use of the Tidyverse, to be delivered at the University of Nottingham and is currently under development."
   },
   {
     "objectID": "index.html#contacts",
@@ -25,6 +25,27 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Books (free online)\n\nJames Long & Paul Teetor (2019) R Cookbook. https://rc2e.com/\nWinston Chang (2018) R Graphics Cookbook. https://r-graphics.org/\nGarrett Grolemund & Hadley Wickham (2016) R for Data Science. https://r4ds.had.co.nz/\n\nuses Tidyverse\n\nJulia Silge and David Robinson (2017) Text Mining With R. https://www.tidytextmining.com/\nRobin Lovelace et al. (2019) Geocomputation with R. https://r.geocompx.org/\nYihui Xie (2022) RMarkdown: the Definitive Guide. https://bookdown.org/yihui/rmarkdown/\n\n\n\nBooks (in print)\n\nBrunsdon & Comber (2014) An Introduction to R for Spatial Analysis & Mapping. London: SAGE Publications.\nCarlson (2017) Quantitative Methods in Archaeology Using R. Cambridge: Cambridge University Press.\n\n\n\nGuides\n\nR Studio cheatsheets: https://www.rstudio.com/resources/cheatsheets/\nFinding your way to R: https://education.rstudio.com/learn/\nBookdown: https://bookdown.org/\nWinston Chang: Cookbook for R. http://www.cookbook-r.com\nQuarto: https://quarto.org/\n\n\n\nSubject-related guides\n\nMike Baxter (2015) Notes on Quantitative Archaeology and R. https://www.academia.edu/12545743/Notes_on_Quantitative_Archaeology_and_R\nBen Marwick (2018) Using R and Related Tools for Reproducible Research in Archaeology. http://www.practicereproducibleresearch.org/case-studies/benmarwick.html\n\nin Kitzes et al. (eds.) (2018) The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. http://www.practicereproducibleresearch.org/\n\nIsmay and Kim (2018) A modern dive into data with R: An introduction to statistical and data sciences via R. https://moderndive.com/index.html\nChester Ismay (2018) Statistical inference: a Tidy approach. https://ismayc.github.io/talks/ness-infer/slide_deck.html#1\nRchaeology Community resources list: https://rchaeology.github.io/resources/archaeology/\n\nMastodon: @Rchaeology@archaeo.social\n\nCRAN Task Views: https://www.stats.bris.ac.uk/R/ then click on Task Views\n\n\n\nExamples\n\nR graph gallery:  https://www.r-graph-gallery.com\nBen Marwick’s @archpaperscode Twitter bot: https://twitter.com/archpaperscode (https://github.com/benmarwick/ctv-archaeology#publications-that-include-r-code)\nTidy Tuesday 2022 examples gallery: https://github.com/deepdk/TidyTuesday-2022\n\nTom Mock explains the Tidy Tuesday project at https://www.youtube.com/watch?v=H8rhQOj7vDY\n\n\n\n\nVideo\n\nSimon Jackson’s Wrangling Data in the Tidyverse (useR! 2018 workshops & tutorials)\n\nPart 1 (1:16:10): \nPart 2 (1:11:43): \n\n\n\n\nPackages\n\nTidyverse https://www.tidyverse.org/ \n\nggplot2: https://ggplot2.tidyverse.org \nPaper: Wickham et al. (2019)  https://doi.org/10.21105/joss.01686 \n\nggcharts — simple ggplot2-based visualisation\n\n\n\nReusable code, open science, reproducibility\n\nCode quality: Trisovic, A. et al. (2022) A large-scale study on research code quality and execution. Scientific Data 9, 60\n\nSee Best practices and recommendations section\n\n\n\n\nTools\n\nRstudio IDE — widely-used Integrated Development Environment for R\nTabula — extracting CSVs from PDFs\nGitHub — for version control\nGithub Pages — for websites\nChatGPT — just joking =:o\n\n\n\nTeaching materials (for the tutors)\n\nRStudio Education: https://education.rstudio.com/teach/"
+    "text": "James Long & Paul Teetor (2019) R Cookbook. https://rc2e.com/\nWinston Chang (2018) R Graphics Cookbook. https://r-graphics.org/\nGarrett Grolemund & Hadley Wickham (2016) R for Data Science. https://r4ds.had.co.nz/\n\nuses Tidyverse\n\nJulia Silge & David Robinson (2017) Text Mining With R. https://www.tidytextmining.com/\nRobin Lovelace et al. (2019) Geocomputation with R. https://r.geocompx.org/\nYihui Xie (2022) RMarkdown: the Definitive Guide. https://bookdown.org/yihui/rmarkdown/"
+  },
+  {
+    "objectID": "resources.html#general",
+    "href": "resources.html#general",
+    "title": "Resources",
+    "section": "General",
+    "text": "General\n\nCRAN Task Views: https://www.stats.bris.ac.uk/R/ then click on Task Views"
+  },
+  {
+    "objectID": "resources.html#statistics",
+    "href": "resources.html#statistics",
+    "title": "Resources",
+    "section": "Statistics",
+    "text": "Statistics\n\nIsmay and Kim (2018) A modern dive into data with R: An introduction to statistical and data sciences via R. https://moderndive.com/index.html\nChester Ismay (2018) Statistical inference: a Tidy approach. https://ismayc.github.io/talks/ness-infer/slide_deck.html#1"
+  },
+  {
+    "objectID": "resources.html#archaeology",
+    "href": "resources.html#archaeology",
+    "title": "Resources",
+    "section": "Archaeology",
+    "text": "Archaeology\n\nMike Baxter (2015) Notes on Quantitative Archaeology and R. https://www.academia.edu/12545743/Notes_on_Quantitative_Archaeology_and_R\nBen Marwick (2018) Using R and Related Tools for Reproducible Research in Archaeology. http://www.practicereproducibleresearch.org/case-studies/benmarwick.html\n\nin Kitzes et al. (eds.) (2018) The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. http://www.practicereproducibleresearch.org/\n\nRchaeology Community resources list: https://rchaeology.github.io/resources/archaeology/\n\nMastodon: @Rchaeology@archaeo.social"
   }
 ]
