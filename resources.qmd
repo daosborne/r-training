@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Resources for R training for Faculty of Arts"
 author: "David Osborne"
 date: now
 date-modified: last-modified
